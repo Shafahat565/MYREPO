@@ -1,1 +1,1 @@
-#This Repo Contains projects done by me.
+#This Repo contains pyhton programs and learning helping materials.
