@@ -1,4 +1,4 @@
-✅ 1. Python Exercises by Chilarai
+✅ 1. Python Exercises
 📌 Best For: Beginners practicing basic to intermediate problems.
 
 ✅ Simple programs with readable structure.
